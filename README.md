@@ -20,8 +20,7 @@ I am Harsha :sunglasses:, a data enthusiast with a deep understanding of buildin
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) &emsp; 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) &emsp; 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) &emsp; 
-
-![Snowflake] <img img src="https://img.shields.io/badge/snowflake-white?logo=snowflake&logoColor=blue" alt="Snowflake" width="85" />  &emsp; 
+<img img src="https://img.shields.io/badge/snowflake-white?logo=snowflake&logoColor=blue" alt="Snowflake" width="85" />  &emsp; 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&emsp; 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&emsp; 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
