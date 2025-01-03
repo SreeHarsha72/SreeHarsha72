@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Data+Enthusiast;Always+learning+new+things"></a>
 </p>
+
 # 💫 About Me
 I am Harsha :sunglasses:, a data enthusiast with a deep understanding of building and analyzing data systems.
 <br> :arrow_right: I can help design and implement data warehouses using various tools and techniques, from E-R diagramming to Star and Snowflake schemas. I'm proficient in translating these models into physical designs and utilizing various cloud services like GCP and AWS. My strong understanding of business processes ensures my solutions are tailored to business needs.
@@ -9,7 +10,7 @@ I am Harsha :sunglasses:, a data enthusiast with a deep understanding of buildin
 <br>:arrow_right: Beyond traditional data warehousing, I'm proficient in data engineering, utilizing tools like PySpark and Apache Airflow to build robust data pipelines. I've also developed real-time tracking systems and implemented advanced search features using big data tools. My goal is to help you leverage data to gain insights, improve efficiency, and achieve your business goals.
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &emsp; 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) &emsp; 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &emsp; 
@@ -22,6 +23,17 @@ I am Harsha :sunglasses:, a data enthusiast with a deep understanding of buildin
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&emsp; 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&emsp; 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+
+## Connect with me
+
+<p align="center">
+	<a href="mailto:harshanimmag@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+
 
 <!--
 # 📊 GitHub Stats:
