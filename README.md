@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, I'm Harsha Nimmagadda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=20&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Data+Enthusiast;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Data+Enthusiast;Always+learning+new+things"></a>
 </p>
-
 # 💫 About Me
 I am Harsha :sunglasses:, a data enthusiast with a deep understanding of building and analyzing data systems.
 <br> :arrow_right: I can help design and implement data warehouses using various tools and techniques, from E-R diagramming to Star and Snowflake schemas. I'm proficient in translating these models into physical designs and utilizing various cloud services like GCP and AWS. My strong understanding of business processes ensures my solutions are tailored to business needs.
@@ -20,7 +19,6 @@ I am Harsha :sunglasses:, a data enthusiast with a deep understanding of buildin
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) &emsp; 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) &emsp; 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) &emsp; 
-![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white) &emsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&emsp; 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&emsp; 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
