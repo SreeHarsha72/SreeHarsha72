@@ -1,4 +1,9 @@
 ### Hi there 👋
+<h1 align="center">Hi , I'm Harsha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Enthusiast;Computer+Science+Student;Always+learning+new+things"></a>
+</p>
+
 # 💫 About Me
 I am Harsha :sunglasses:, a data enthusiast with a deep understanding of building and analyzing data systems.
 <br> :arrow_right: I can help design and implement data warehouses using various tools and techniques, from E-R diagramming to Star and Snowflake schemas. I'm proficient in translating these models into physical designs and utilizing various cloud services like GCP and AWS. My strong understanding of business processes ensures my solutions are tailored to business needs.
