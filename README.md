@@ -26,7 +26,7 @@ I am Harsha :sunglasses:, a data enthusiast with a deep understanding of buildin
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 
-## :globe_with_meridians: Connect with me
+# :globe_with_meridians: Connect with me
 
 <p align="center">
 	<a href="mailto:harshanimmag@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" width="85" /></a> &emsp; 
