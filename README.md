@@ -12,7 +12,6 @@ This is Harsha :sunglasses:, a data enthusiast with a deep understanding of buil
 
 # 💻 Tech Stack
 ![SQL](https://img.shields.io/badge/sql-%23323330.svg?style=for-the-badge&logo=sql&logoColor=orange) &emsp; 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) &emsp; 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &emsp; 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) &emsp; 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) &emsp; 
