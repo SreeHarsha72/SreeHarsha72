@@ -4,7 +4,7 @@
 </p>
 
 # 💫 About Me
-This is Harsha :sunglasses:, a data enthusiast with a deep understanding of building and analyzing data systems.
+A data enthusiast with a deep understanding of building and analyzing data systems.
 <br> :arrow_right: I can help design and implement data warehouses using various tools and techniques, from E-R diagramming to Star and Snowflake schemas. I'm proficient in translating these models into physical designs and utilizing various cloud services like AWS, Azure and GCP. My strong understanding of business processes ensures my solutions are tailored to business needs.
 <br> :arrow_right: From ETL processes and data migrations to insightful reports and dashboards, I can manage the entire data journey. I'm skilled in statistical analysis, data mining, and machine learning, using tools like Python and Tableau to optimize pipelines and improve efficiency. I can also troubleshoot production issues and ensure data quality and integrity.
 <br>:arrow_right: Beyond traditional data warehousing, I'm proficient in data engineering, utilizing tools like PySpark and Apache Airflow to build robust data pipelines. I've also developed real-time tracking systems and implemented advanced search features using big data tools. My goal is to help you leverage data to gain insights, improve efficiency, and achieve your business goals.
@@ -14,7 +14,7 @@ This is Harsha :sunglasses:, a data enthusiast with a deep understanding of buil
 ![SQL](https://img.shields.io/badge/sql-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=orange) &emsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &emsp;
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white) &emsp;
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) &emsp;
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) &emsp;
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) &emsp;
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) &emsp;
